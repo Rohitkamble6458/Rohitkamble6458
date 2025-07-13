@@ -51,7 +51,8 @@ I thrive on continuous learning and love exploring new tools, libraries, and tec
 
 ## 📌 Featured Projects
 
-- 🎯 **Smart Attendance System** – Built using Python, OpenCV, and MySQL to automate attendance tracking  
+- 🎯 **Business Insights 360** – is a real-world Power BI project that analyzes 2M+ sales records of Atliq Hardware to deliver department-specific, data-driven insights.
+It showcases interactive dashboards, KPIs, and forecasting metrics to support strategic decision-making across Finance, Sales, Marketing, Supply Chain, and Executive teams.  [View Project](https://github.com/Rohitkamble6458/Business-Insights360)
 - 🏨 **Hostel Room Allocation System** – Web app using PHP, Bootstrap, and MySQL for efficient room management  
 - 📊 **Power BI Dashboards** – Interactive visualizations for real-time analytics and business insights  
 
