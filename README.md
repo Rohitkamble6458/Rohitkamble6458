@@ -12,7 +12,7 @@
 
 I'm a passionate and detail-oriented **Data Analyst** and **Software Developer** who enjoys transforming raw data into meaningful insights and intuitive digital experiences.
 
-With hands-on expertise in **Power BI, SQL, Excel, Python, and MySQL**, I specialize in crafting insightful dashboards and data visualizations. On the development side, I build responsive web applications using **React.js, JavaScript, HTML, and CSS**.
+With hands-on expertise in **Power BI, SQL, Excel, Python, and MySQL**, I specialise in crafting insightful dashboards and data visualisations. On the development side, I build responsive web applications using **React.js, JavaScript, HTML, and CSS**.
 
 I thrive on continuous learning and love exploring new tools, libraries, and technologies to solve real-world problems.
 
@@ -51,12 +51,12 @@ I thrive on continuous learning and love exploring new tools, libraries, and tec
 
 ## 📌 Featured Projects
 
-- 🎯 **Business Insights 360** – is a real-world Power BI project that analyzes 2M+ sales records of Atliq Hardware to deliver department-specific, data-driven insights.
+- 🎯 **Business Insights 360** – is a real-world Power BI project that analyses 2M+ sales records of Atliq Hardware to deliver department-specific, data-driven insights.
 It showcases interactive dashboards, KPIs, and forecasting metrics to support strategic decision-making across Finance, Sales, Marketing, Supply Chain, and Executive teams.  [View Project](https://github.com/Rohitkamble6458/Business-Insights360)
-- 🏨 **Hostel Room Allocation System** – Web app using PHP, Bootstrap, and MySQL for efficient room management  
-- 📊 **Power BI Dashboards** – Interactive visualizations for real-time analytics and business insights  
-
-> 🚀 Check out the pinned repositories below for more details!
+- 🏨 **AtliQ Grands – Hospitality Analytics Dashboard** –  [View Project](https://github.com/Rohitkamble6458/Hotel-Business-Analysis)
+- 📊 **AtliQ's Sales Analytics Using SQL** –  [View Project](https://github.com/Rohitkamble6458/-AtliQs-Sales-Analytics-Using-SQL)
+- 📊 **AtliQ Sales and Finance Analytics in EXCEL** –  [View Project](https://github.com/Rohitkamble6458/Sales-and-Financial-Report)
+- 🎵 **SQL Music Store Analysis using PostgreSQL** – [View Project](https://github.com/Rohitkamble6458/Music_store_Data_Analysis)
 
 ---
 
